@@ -1,0 +1,6 @@
+{
+  "name": "BIOLOGY MASTER 12 – Chinh Phục Kỳ Thi Sinh Học",
+  "description": "Ứng dụng học lý thuyết, luyện tập và thi thử môn Sinh học lớp 12 bám sát tài liệu gốc với phản hồi tức thì và phân tích lỗi sai chi tiết.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
